@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/quackware/template">
-    <code>@quackware/template</code>
+  <a href="https://github.com/quackware/templates">
+    <code>@quackware/templates</code>
   </a>
 </h1>
 
